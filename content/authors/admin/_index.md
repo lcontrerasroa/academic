@@ -17,6 +17,7 @@ superuser: true
 role: Associate Professor in English Phonetics and Phonology
 
 # Organizations/Affiliations to show in About widget
+organizations:
 - name: Université de Picardie Jules Verne, CORPUS - 4295
   url: https://www.u-picardie.fr/unites-de-recherche/corpus/
 
@@ -44,8 +45,6 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# Skills
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 skills:
   - name: R
     percent: 70
@@ -83,8 +82,6 @@ skills:
     icon: javascript
     icon_pack: custom
 
-
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -115,9 +112,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 <div align="justify">
-<p>I am a <b>linguist</b>, an <b>English teacher</b> and a <b>phonetician</b>.
-<p>I initially studied translation in Chile and was passionate about <b>translation analysis</b>&mdash;trying to understand how language structures and ideas are modified when someone translates them from one language to another.
-<p>I then became interested in <b>language teaching</b>, so I moved to France. There, I started teaching Spanish and then English. I realized that, just as structures and ideas are transformed when translated, so are the structures and sounds of a language when someone learns it as a <b>second or foreign language</b>.
-<p>My research currently consists in analyzing through <b>phonetics</b> how learners acquire the phonemes, rhythm and intonation of the language they are learning. I particularly enjoy working with big <b>corpora</b> of audio or video data to find regularities and try to make things out of them&mdash;i.e. understanding the way a learner's <b>interlanguage</b> behaves.
+<p>I am a <b>linguist</b>, an <b>English teacher</b>, and a <b>phonetician</b>.</p>
+<p>I initially studied translation in Chile and was passionate about <b>translation analysis</b>&mdash;trying to understand how language structures and ideas are modified when someone translates them from one language to another.</p>
+<p>I then became interested in <b>language teaching</b>, so I moved to France. There, I started teaching Spanish and then English. I realized that, just as structures and ideas are transformed when translated, so are the structures and sounds of a language when someone learns it as a <b>second or foreign language</b>.</p>
+<p>My research currently consists of analyzing through <b>phonetics</b> how learners acquire the phonemes, rhythm, and intonation of the language they are learning. I particularly enjoy working with big <b>corpora</b> of audio or video data to find regularities and try to make things out of them&mdash;i.e. understanding the way a learner's <b>interlanguage</b> behaves.</p>
 </div>
