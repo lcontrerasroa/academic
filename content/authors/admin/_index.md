@@ -17,7 +17,7 @@ superuser: true
 role: Associate Professor in English Phonetics and Phonology
 
 # Organizations/Affiliations to show in About widget
-- name: Université de Picardie Jules Verne, CORPUS - EA 4295
+- name: Université de Picardie Jules Verne, CORPUS - 4295
   url: https://www.u-picardie.fr/unites-de-recherche/corpus/
 
 # Short bio (displayed in user profile at end of posts)
